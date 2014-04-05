@@ -7,7 +7,7 @@
     using Common;
 
     /// <summary>
-    ///     The service bus relay client.
+    ///     The service bus relay client. 
     /// </summary>
     internal class RobotClient
     {
