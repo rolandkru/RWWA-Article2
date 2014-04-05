@@ -11,3 +11,6 @@ Installation:
 4. Go to the "configure" tab and create two shared access policies: one for "Send" and one for "Listen".
 5. Enter the "Listen" credentials to the app.config of the "Server"-Project and the "Send" Credentials to the app.config of the "Client"-Project.
 6. Run Server and Client Project
+
+
+![Configuration](rolandkru.github.com/rwwa-article2/configuration.png)
