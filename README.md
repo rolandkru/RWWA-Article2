@@ -13,4 +13,4 @@ Installation:
 6. Run Server and Client Project
 
 
-![Configuration](rolandkru.github.com/rwwa-article2/configuration.png)
+![Configuration](https://github.com/rolandkru/RWWA-Article2/blob/master/Configuration.png)
